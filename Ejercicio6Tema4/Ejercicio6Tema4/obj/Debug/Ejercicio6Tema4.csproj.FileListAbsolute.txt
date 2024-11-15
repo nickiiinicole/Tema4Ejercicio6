@@ -1,0 +1,11 @@
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\bin\Debug\Ejercicio6Tema4.exe.config
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\bin\Debug\Ejercicio6Tema4.exe
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\bin\Debug\Ejercicio6Tema4.pdb
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.csproj.AssemblyReference.cache
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.Form1.resources
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.Properties.Resources.resources
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.csproj.GenerateResource.cache
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.csproj.CoreCompileInputs.cache
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.exe
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.pdb
+C:\Users\nicki\source\repos\Ejercicio6Tema4\Ejercicio6Tema4\obj\Debug\Ejercicio6Tema4.Form2.resources
